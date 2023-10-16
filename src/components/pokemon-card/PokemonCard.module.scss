@@ -1,0 +1,11 @@
+.PokemonCard {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+    text-align: center;
+    padding: 1em;
+
+    img {
+        width: 100%;
+        max-height: 100px;
+    }
+}
